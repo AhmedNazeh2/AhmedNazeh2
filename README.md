@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nazeh</h1>
-<h3 align="center">I'm an innovative and scientifically rigorous Artificial Intelligence Engineer with significant experience in data science, machine learning, deep learning, computer vision, NLP, time series forecasting, and recommendation engines, with a team-oriented attitude. 
-  
-I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business.
-
-I'm teaching data analysis, data science, machine learning, deep learning, computer vision, NLP, and more. Hopefully, this will enrich the Arabic content of AI.</h3>
+<h3 align="center">I'm an innovative and scientifically rigorous Artificial Intelligence Engineer with significant experience in data science, machine learning, deep learning, computer vision, NLP, time series forecasting, and recommendation engines, with a team-oriented attitude. I'm eager to contribute my abilities in modeling, analysis, visualization, and experimentation to enhance your results and provide solutions for your business.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednazeh2&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednazeh2" /> </p>
 
